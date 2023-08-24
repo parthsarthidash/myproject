@@ -31,7 +31,7 @@ yarn install
 
 yarn dev
 ```
-dfdf
+
 This will start the server at [http://localhost:3000](http://localhost:3000/). Open [http://localhost:3000](http://localhost:3000/)[ ](http://localhost:3000/)to view it in the browser.
 
 ## Available Scripts:
